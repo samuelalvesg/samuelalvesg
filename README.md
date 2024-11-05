@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá 👋
+
+- 🔭 Estou atualmente trabalhando em um projeto de Nodejs 
+- 📫 Como me contatar: engsamuelgoncalves@outlook.com
 
 <!--
 **samuelalvesg/samuelalvesg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
