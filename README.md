@@ -1,6 +1,6 @@
 ## Olá 👋
 
-- 🔭 Estou atualmente trabalhando em um projeto de Nodejs 
+- 🔭 Estou atualmente trabalhando em um projeto em Flutter 
 - 📫 Como me contatar: dev.samuel.goncalves@gmail.com
 
 <!--
